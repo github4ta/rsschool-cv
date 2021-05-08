@@ -18,7 +18,6 @@
 
 ### Skills
 * Programming languages: Java
-* Methodologies: Agile, Kanban
 * Version control: [Github](https://github.com/), [Gitlab](https://gitlab.com/), [Bitbucket](https://bitbucket.org/)
 
 ### Experience
